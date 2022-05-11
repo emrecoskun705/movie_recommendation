@@ -1,2 +1,4 @@
 env
 db.sqlite3
+cos_sim_data.csv
+data.csv
